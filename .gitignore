@@ -1,0 +1,20 @@
+# Ignore the following folders
+ressources/
+x_old/
+
+# Checkpoints Jupyter Notebook and __pycache__
+**/.ipynb_checkpoints/
+**__pycache__/
+
+# data
+**/input/
+**/test_local/
+
+# aws credentials
+config.json
+
+# Ignore all test files with .py extension
+test_*.py
+
+# Ignore all test files with .ipynb extension
+test_*.ipynb

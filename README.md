@@ -1,4 +1,4 @@
-# Dashbord de credit scoring
+# Dashboard de credit scoring
 
 _Projet réalisé dans le cadre de la formation Data Scientist d'OpenClassrooms (Projet n°8 - Janv. 2025)_
 
